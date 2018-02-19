@@ -1,3 +1,3 @@
 Hello mygit;
 please have a good time!
-good for you!
+good for you!under the GPL.
